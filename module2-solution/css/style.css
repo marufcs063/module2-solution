@@ -23,6 +23,16 @@ h2{
    
     background-color: brown;
 }
+.chicken{
+    background-color: pink;
+}
+.beef{
+    color: white;
+}
+.sushi{
+    background-color: cornsilk;
+}
+
 p{
     font-size: 20px;
     clear: right;
